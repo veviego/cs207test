@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/dsondak/cs207testing.svg?branch=master)](https://travis-ci.org/veviego/cs207testing.svg?branch=master)
+[![Build Status](https://travis-ci.org/veviego/cs207test.svg?branch=master)](https://travis-ci.org/veviego/cs207test)
 
-[![Coverage Status](https://coveralls.io/repos/github/dsondak/cs207testing/badge.svg?branch=master)](https://coveralls.io/github/veviego/cs207testing?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/veviego/cs207test/badge.svg)](https://coveralls.io/github/veviego/cs207test)
 
